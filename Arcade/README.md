@@ -1,2 +1,3 @@
 # CodeSignal_Solution
-# CodeSignal_Solutions
+
+Solutions for https://app.codesignal.com/arcade
